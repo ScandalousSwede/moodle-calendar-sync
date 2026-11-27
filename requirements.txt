@@ -3,7 +3,7 @@ openai>=1.10.0  # For both Computer Use model and Agents SDK API access
 openai-agents>=0.1.0  # OpenAI Agents SDK for structured agent development
 pydantic>=2.0.0  # Data modeling and validation
 python-dotenv>=1.0.0  # Environment variable management
-requests==2.31.0  # HTTP requests library
+requests==2.32.4  # HTTP requests library
 tenacity>=8.2.0  # Retry functionality for API calls
 json5>=0.9.14  # Enhanced JSON parsing
 
